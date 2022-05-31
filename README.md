@@ -128,3 +128,72 @@ blog.naver.com
 
 ​
 [출처] 전자정부프레임워크란?[spring]|작성자 뮤믐매
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko"><head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta name="robots" content="noindex,follow">
+<meta name="referrer" content="always">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?3">
+<link rel="alternate" type="application/rss+xml" href="https://rss.blog.naver.com/pss91617.xml" title="RSS feed for pss91617 Blog">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blog.naver.com/NBlogWlwLayout.naver?blogId=pss91617">
+
+
+
+
+<title>전자정부프레임워크란?[spring] : 네이버 블로그</title>
+<script type="text/javascript" src="https://ssl.pstatic.net/t.static.blog/mylog/versioning/Frameset-347491577_https.js" charset="UTF-8"></script><script type="text/javascript" charset="UTF-8">
+var photoContent="";
+var postContent="";
+
+var videoId 	  = "";
+var thumbnail 	  = "";
+var inKey 		  = "";
+var movieFileSize = "";
+var playTime 	  = "";
+var screenSize 	  = "";
+
+var blogId = 'pss91617';
+var blogURL = 'https://blog.naver.com';
+var eventCnt = '';
+
+var g_ShareObject = {};
+g_ShareObject.referer = "https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fsm%3Dtab_sug.top%26where%3Dnexearch%26query%3D%25EC%25A0%2584%25EC%259E%2590%25EC%25A0%2595%25EB%25B6%2580%25ED%2594%2584%25EB%25A0%2588%25EC%259E%2584%25EC%259B%258C%25ED%2581%25AC%26oquery%3D%25EA%25B9%2583%25ED%2597%2588%25EB%25B8%258C%26tqi%3DhpUvswp0YiRssmMZDyVsssssteK-498366%26acq%3D%25EC%25A0%2584%25EC%259E%2590%25EC%25A0%2595%25EB%25B6%2580%25ED%2594%2584%26acr%3D2%26qdt%3D0";
+
+
+jsMVC.setController("framesetTitleController", FramesetTitleController);
+jsMVC.setController("framesetUrlController", FramesetUrlController);
+jsMVC.setController("framesetMusicController", FramesetMusicController);
+var oFramesetTitleController = jsMVC.getController("framesetTitleController");
+var oFramesetUrlController = jsMVC.getController("framesetUrlController");
+var oFramesetMusicController = jsMVC.getController("framesetMusicController");
+var sTitle = document.title;
+
+var topFrameAlert = function(message){
+	alert(message);
+};
+
+var topFrameConfirm = function(message){
+	if(confirm(message)){
+		return true;
+	} else {
+		return false;
+	}
+};
+</script><style type="text/css">
+    html{width:100%;height:100%;}
+    body{width:100%;height:100%;margin:0;padding:0;font-size:0;}
+    #mainFrame{width:100%;height:100%;margin:0;padding:0;border:0;}
+    #hiddenFrame{width:0;height:0;margin:0;padding:0;border:0;}
+</style></head>
+
+
+
+
+<body>
+    <iframe id="mainFrame" name="mainFrame" allowfullscreen="true" src="/PostView.naver?blogId=pss91617&amp;logNo=222597787159&amp;redirect=Dlog&amp;widgetTypeCall=true&amp;topReferer=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fsm%3Dtab_sug.top%26where%3Dnexearch%26query%3D%25EC%25A0%2584%25EC%259E%2590%25EC%25A0%2595%25EB%25B6%2580%25ED%2594%2584%25EB%25A0%2588%25EC%259E%2584%25EC%259B%258C%25ED%2581%25AC%26oquery%3D%25EA%25B9%2583%25ED%2597%2588%25EB%25B8%258C%26tqi%3DhpUvswp0YiRssmMZDyVsssssteK-498366%26acq%3D%25EC%25A0%2584%25EC%259E%2590%25EC%25A0%2595%25EB%25B6%2580%25ED%2594%2584%26acr%3D2%26qdt%3D0&amp;directAccess=false" scrolling="auto" onload="oFramesetTitleController.start(self.frames['mainFrame'], self, sTitle);oFramesetTitleController.onLoadFrame();oFramesetUrlController.start(self.frames['mainFrame']);oFramesetUrlController.onLoadFrame()"></iframe>
+
+</body></html>
